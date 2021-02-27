@@ -1,0 +1,68 @@
+html, body {
+  margin:0;
+  padding:0;
+}
+
+a:link {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+  font-size: 14px;
+  ;
+}
+a:visited {color: black;
+background-color: transparent;
+text-decoration: none;
+}
+.signin {
+    background-color:#4285f4;
+    width: 75px;
+    height: 30px;
+    color: azure;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10pt;
+    font-weight: 600;
+    border-radius: 4px;
+    border: none;
+ }
+.left {float: left;
+
+      }
+.right {float: right;}
+
+.nav {height: 20px;
+  margin-right: 20px;
+
+}
+.nav1 {
+  background-color: #D3D3D3;
+    overflow: hidden;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  margin right: 20px;}
+
+li {
+    display: inline;
+    font-family: arial, sans-serif;
+    font-size: 15px;
+    margin: 0px;
+    ;
+
+}
+li a {
+    color: rgb(68, 68, 70);
+    text-decoration: none;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-left: 0px;
+  }
+
+li a:hover {
+     text-decoration: underline;
+  }
+header {margin: 0px;}
+.center {  text-align: center;
+  margin-top: 60px;
+}
+.imagealign{padding-top: 130px;}
